@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pptx
+*.mov
+*.mp4
+*.pkg
+*.zip
+slides/
+# Exclude large CSV files (>50MB)
+uncleaned data set.csv
